@@ -14,6 +14,18 @@ Este é o mundo do Minecraft que contém a uma máquina de somar números. A má
 
 - Minecraft Java Edition 1.7.10+
 
+## Como usar
+
+Para usar a máquina, basta clicar em um dos botões para selecionar um número, e depois clicar em outro botão para selecionar o segundo número. O resultado da soma é mostrado no display de 7 segmentos.
+
+## Como entrar no mundo
+
+- Abra a pasta .minecraft;
+- Vá para a pasta saves;
+- Clone este repositório dentro desta pasta;
+- Renomeie a pasta como desejar;
+- Abra o Minecraft e entre no mundo "circuitos".
+
 ## Agrupamentos de circuitos
 
 ### Input
@@ -65,15 +77,3 @@ Caso a soma dos números seja maior que 9, o resultado é mostrado no display de
 Para isso é necessário apenas uma verificação simples, se o número de 4 bits da soma for maior que 9 ou se o seu carry out estiver ligado, então o resultado é mostrado com um erro.
 
 ![](./.github/display_error.png)
-
-## Como usar
-
-Para usar a máquina, basta clicar em um dos botões para selecionar um número, e depois clicar em outro botão para selecionar o segundo número. O resultado da soma é mostrado no display de 7 segmentos.
-
-## Como entrar no mundo
-
-- Abra a pasta .minecraft;
-- Vá para a pasta saves;
-- Clone este repositório dentro desta pasta;
-- Renomeie a pasta como desejar;
-- Abra o Minecraft e entre no mundo "circuitos".
